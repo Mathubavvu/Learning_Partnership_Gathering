@@ -1,0 +1,103 @@
+{
+  "admin": [
+    {
+      "username": "admin",
+      "password": "1234",
+      "id": "668e"
+    }
+  ],
+  "facultys": [
+    {
+      "username": "facultys",
+      "password": "1234",
+      "id": "668e"
+    }
+  ],
+  "users": [
+    {
+      "username": "adam",
+      "password": "1234",
+      "id": "668e"
+    }
+  ],
+  "faculty": [
+    {
+      "facid": "8725",
+      "facName": "Robert",
+      "facDept": "cse",
+      "facSubject": "Python",
+      "facMajor": "Python",
+      "id": "8725"
+    }
+  ],
+  "students": [
+    {
+      "id": "526e",
+      "rollno": "1",
+      "studentName": "adam",
+      "department": "cse1",
+      "section": "1",
+      "batch": "2021"
+    },
+    {
+      "id": "301e",
+      "rollno": "2",
+      "studentName": "Albert",
+      "department": "cse",
+      "section": "1",
+      "batch": "2022"
+    },
+    {
+      "id": "fe3d",
+      "rollno": 0,
+      "studentName": "",
+      "department": "",
+      "section": 0,
+      "batch": 0
+    }
+  ],
+  "parents": [
+    {
+      "id": "1658",
+      "parid": "1",
+      "parentName": "john",
+      "studentName": "Adam",
+      "rollno": "1",
+      "studEmail": "adam@gmail.com"
+    }
+  ],
+  "fac":[
+    {
+      "facid": "facid",
+      "facName": "facName",
+      "facDept": "facDept",
+      "FacDes":"facDes",
+      "facGender":"facGender",
+      "facbloodgrp":"facbloodgrp",
+      "facAddr":"facAddr",
+      "facPhno":"facPhno"
+    }
+  ],
+  "stud": [
+    {
+      "name": "Devi",
+      "rollno": "3",
+      "dob": "1",
+      "dept": "cse",
+      "cursem": "3",
+      "curyr": "3",
+      "phno": "12345",
+      "email": "devio@gmail.com",
+      "addr": "12-main,chennai",
+      "bloodgrp": "O+ve"
+    }
+  ],
+  "par": [
+    {
+      "name": "Riya",
+      "phno": "98876543",
+      "addr": "12-main,chennai",
+      "bloodgrp": "bloodgrp"
+    }
+  ]
+}
